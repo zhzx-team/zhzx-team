@@ -1,1 +1,1 @@
-[知乎知校](https://ezylryb-bk.github.io/zhzx/)
+[知乎知校](https://zhzx-team.github.io/zhzx-team/)
