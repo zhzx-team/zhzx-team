@@ -23,13 +23,14 @@ description: 关于招生与报考的调研——以知乎为主的知校新模�
 
 # List of links in the navigation bar
 navbar-links:
+  基本资料: "aboutus"
   项目理念: "init"
   材料分析: "aim"
-  实践亮点: "point"
-  团队组成: "aboutus"
   实践原因: "reason"
   实践方法: "method"
- # Github: "https://github.com/Ezylryb-BK/"
+  实践目标: "point"
+
+  # Github: "https://github.com/Ezylryb-BK/"
   材料分类: "tags"
   #  - journal: "journal"
   #  - Academics: "Academics"
@@ -266,3 +267,4 @@ repository: zhzx-team/zhzx-team
   # 2fc73a3a967e97599c9763d05e564189lsla
 
 theme: jekyll-theme-cayman
+
