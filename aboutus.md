@@ -1,7 +1,8 @@
 ---
 layout: page
-title: <font size=4>基本资料</font>
+title: 基本资料
 ---
+
 ### 课题名称
 关于招生与报考的调研——以知乎为主的知校新模式
 
