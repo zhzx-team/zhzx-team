@@ -24,11 +24,11 @@ description: 关于招生与报考的调研——以知乎为主的知校新模�
 # List of links in the navigation bar
 navbar-links:
   <font size=4>基本资料<font\>: "aboutus"
-  项目理念: "init"
-  材料分析: "aim"
-  实践原因: "reason"
-  实践方法: "method"
-  实践目标: "point"
+  <font size=4>项目理念<font\>: "init"
+  <font size=4>材料分析<font\>: "aim"
+  <font size=4>实践原因<font\>: "reason"
+  <font size=4>实践方法<font\>: "method"
+  <font size=4>实践目标<font\>: "point"
 
   # Github: "https://github.com/Ezylryb-BK/"
   材料分类: "tags"
