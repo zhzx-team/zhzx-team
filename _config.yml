@@ -23,7 +23,7 @@ description: 关于招生与报考的调研——以知乎为主的知校新模�
 
 # List of links in the navigation bar
 navbar-links:
-  基本资料: "aboutus"
+  <font size=4>基本资料<font\>: "aboutus"
   项目理念: "init"
   材料分析: "aim"
   实践原因: "reason"
